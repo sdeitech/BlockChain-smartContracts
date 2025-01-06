@@ -22,5 +22,5 @@ The purpose of this project is to provide a simple example of a smart contract w
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
-   cd repository-name
+   git clone https://github.com/sdeitech/BlockChain-smartContracts.git
+   cd BlockChain-smartContracts
